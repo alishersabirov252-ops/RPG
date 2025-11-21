@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b6f8a9bebb8847c49fc2089efa7ffab, type: 3}
+  m_Name: Armour
+  m_EditorClassIdentifier: 
+  itemName: Armour
+  itemDescription: 'rare weapon
+
+'
+  icon: {fileID: -6270953770400647376, guid: 6f7b0b32ee2e14576ad9706ff199f10b, type: 3}
+  isGold: 0
+  stackSize: 3
+  currentHealth: 5
+  maxHealth: 0
+  speed: 1
+  damage: 10
+  duration: 0

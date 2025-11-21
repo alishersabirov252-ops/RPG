@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Asking_about_background
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSo
+  lines:
+  - speaker: {fileID: 11400000, guid: 5e819a63ebf4a48a59512cd0db88fd61, type: 2}
+    Text: You sound like you know more than you tell me.
+  - speaker: {fileID: 11400000, guid: 3f38d38c933da46fe9ade5027bb1c420, type: 2}
+    Text: "My father used to study the ruins\u2026 before he disappeared."
+  - speaker: {fileID: 11400000, guid: 5e819a63ebf4a48a59512cd0db88fd61, type: 2}
+    Text: "I didn\u2019t know that."
+  - speaker: {fileID: 11400000, guid: 3f38d38c933da46fe9ade5027bb1c420, type: 2}
+    Text: "Nobody remembers him now. But I think what\u2019s happening is connected."
+  options:
+  - OptionText: continue
+    nextDialogue: {fileID: 11400000, guid: aa1c6bd92e1084d3799be455366d5380, type: 2}
+    offerQuest: {fileID: 0}
+  - OptionText: 'end '
+    nextDialogue: {fileID: 0}
+    offerQuest: {fileID: 0}
+  offerQuestOnEnd: {fileID: 0}
+  requiredNPC: []
+  requiredLocation: []
+  requiredItems: []

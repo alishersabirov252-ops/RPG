@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Continue4_with_wife
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSo
+  lines:
+  - speaker: {fileID: 11400000, guid: 3f38d38c933da46fe9ade5027bb1c420, type: 2}
+    Text: When you're ready, the road to the forest starts behind the well.
+  - speaker: {fileID: 11400000, guid: 3f38d38c933da46fe9ade5027bb1c420, type: 2}
+    Text: "And\u2026 if you get scared, just remember: you\u2019re not fighting for
+      glory."
+  - speaker: {fileID: 11400000, guid: 5e819a63ebf4a48a59512cd0db88fd61, type: 2}
+    Text: Then for what?
+  - speaker: {fileID: 11400000, guid: 3f38d38c933da46fe9ade5027bb1c420, type: 2}
+    Text: For us. For this home.
+  options: []
+  offerQuestOnEnd: {fileID: 0}
+  requiredNPC: []
+  requiredLocation: []
+  requiredItems: []

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: new Dialoge
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSo
+  lines:
+  - speaker: {fileID: 11400000, guid: 3f38d38c933da46fe9ade5027bb1c420, type: 2}
+    Text: OYYY you are on the sofa? do you want to do something?
+  - speaker: {fileID: 11400000, guid: 5e819a63ebf4a48a59512cd0db88fd61, type: 2}
+    Text: what?...... what do you mean?
+  - speaker: {fileID: 11400000, guid: 3f38d38c933da46fe9ade5027bb1c420, type: 2}
+    Text: ohhh.... i mean being closer a bit to warm each other
+  - speaker: {fileID: 11400000, guid: 5e819a63ebf4a48a59512cd0db88fd61, type: 2}
+    Text: what but today's season is summer. on the outside is so hot
+  - speaker: {fileID: 11400000, guid: 3f38d38c933da46fe9ade5027bb1c420, type: 2}
+    Text: go sex dolbayob
+  - speaker: {fileID: 11400000, guid: 3f38d38c933da46fe9ade5027bb1c420, type: 2}
+    Text: fuck me
+  options: []
+  offerQuestOnEnd: {fileID: 0}
+  requiredNPC: []
+  requiredLocation:
+  - {fileID: 11400000, guid: 6645ddc5f4f3f4633942140b31738a31, type: 2}
+  requiredItems: []

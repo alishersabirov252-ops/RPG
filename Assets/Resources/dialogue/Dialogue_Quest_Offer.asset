@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Dialogue_Quest_Offer
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSo
+  lines:
+  - speaker: {fileID: 11400000, guid: b7cff4e5c301749498a773c2a05479b0, type: 2}
+    Text: salam
+  options: []
+  offerQuestOnEnd: {fileID: 11400000, guid: b58f93ef29ffe4534ac373d1971c2064, type: 2}
+  requiredNPC: []
+  requiredLocation:
+  - {fileID: 11400000, guid: 7f165cf3fb3a54afe9c34d5ad2c79a16, type: 2}
+  requiredItems: []
